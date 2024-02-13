@@ -1,5 +1,13 @@
 ### Hi there 👋
+I'm a Computer science student studying at TUM.
 
+[![wakatime](https://wakatime.com/badge/user/6cf87cc7-c76e-4fff-85cd-47260195a5c2.svg?style=flat)](https://wakatime.com/@6cf87cc7-c76e-4fff-85cd-47260195a5c2)
+
+## My noteworthy Projects
+- 📡 [Apisense](https://github.com/buonotti/apisense)
+- 🔎 [Novasearch](https://github.com/auribuo/novasearch)
+- ⚙️ [Opzioni](https://github.com/auribuo/opzioni)
+- 🤖 [Honkai: Star Rail Notification Bot](https://github.com/auribuo/hsr-alert-bot)
 <!--
 **auribuo/auribuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
