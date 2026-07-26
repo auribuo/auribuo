@@ -5,7 +5,6 @@ I'm a computer science student currently studying at [TUM](https://tum.de).
 - 📡 [Apisense](https://github.com/buonotti/apisense)
 - 🔎 [Novasearch](https://github.com/auribuo/novasearch)
 - ⚙️ [Opzioni](https://github.com/auribuo/opzioni)
-- 🤖 [Honkai: Star Rail Notification Bot](https://github.com/auribuo/hsr-alert-bot)
 
 Also, check out all of my [other projects](https://github.com/auribuo?tab=repositories)
 
