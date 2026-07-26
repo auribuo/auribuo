@@ -22,4 +22,4 @@ But I'm also very experienced in
 
 [![wakatime](https://wakatime.com/badge/user/6cf87cc7-c76e-4fff-85cd-47260195a5c2.svg?style=flat)](https://wakatime.com/@auribuo)
 
-[![Auribuo's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=auribuo&show_icons=true&locale=en&layout=compact)](https://github.com/auribuo?tab=repositories)
+[![Auribuo's GitHub stats](https://github-stats-extended.vercel.app/api/top-langs?username=auribuo&show_icons=true&locale=en&layout=compact)](https://github.com/auribuo?tab=repositories)
